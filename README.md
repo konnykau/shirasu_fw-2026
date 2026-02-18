@@ -1,3 +1,2 @@
-# wikiを見てね
-    hardwareはshirasu_hwへ
-    GUIソフト(まだ作ってない)はshirasu_guiへ
+# しばらく使えなかったものを直しました
+元のコードはここ->https://github.com/ryunika/shirasu_fw
